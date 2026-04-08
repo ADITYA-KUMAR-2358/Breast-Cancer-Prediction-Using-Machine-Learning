@@ -39,3 +39,9 @@ To run this project, you need the following Python libraries installed:
 2. Ensure you have the required libraries installed. You can install them using `pip install pandas seaborn scikit-learn jupyter`.
 3. Open `project.ipynb` in Jupyter Notebook or JupyterLab.
 4. Run the cells sequentially to observe data processing, model training, and results.
+
+
+## Batch B2
+1. Aditya Kumar B-53
+2. Ankit Singh B-54
+3. Anuj Kathal B-61
