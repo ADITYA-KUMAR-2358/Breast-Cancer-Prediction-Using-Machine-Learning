@@ -40,3 +40,5 @@ To run this project, you need the following Python libraries installed:
 3. Open `project.ipynb` in Jupyter Notebook or JupyterLab.
 4. Run the cells sequentially to observe data processing, model training, and results.
 
+## Make Sure to Drop a star on the repo
+
